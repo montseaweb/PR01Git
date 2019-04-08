@@ -5,6 +5,7 @@ public class Prueba2 {
 		System.out.println("Primera línea en Prueba2");
 		System.out.println("Segunda línea en Prueba2");
 		System.out.println("Tercera línea en Prueba2");
+		System.out.println("Cuarta línea en Prueba2");
 
 	}
 
